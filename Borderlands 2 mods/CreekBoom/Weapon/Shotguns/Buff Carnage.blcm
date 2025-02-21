@@ -1,0 +1,14 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+	</head>
+	<body>
+		<category name="Buff Carnage">
+			<code profiles="">set GD_Lobelia_Weapons.Projectiles.Projectile_Rocket_Torgue_Carnage:BehaviorProviderDefinition_0.Behavior_Explode_1 DamageSource Class'WillowGame.WillowDmgSource_Grenade'</code>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+
