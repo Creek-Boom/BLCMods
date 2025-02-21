@@ -15,6 +15,7 @@
 				<code profiles="">set GD_Siren_Skills.Motion.Accelerate SkillEffectDefinitions[1].PerGradeUpgrade.BaseValueConstant 0.05</code>
 			</hotfix>
 			<comment>Replace Bullet Speed by Status Damage, 5% per point.</comment>
+<comment>The skill has been renamed "Instigate".</comment>
 		</category>
 	</body>
 </BLCMM>
