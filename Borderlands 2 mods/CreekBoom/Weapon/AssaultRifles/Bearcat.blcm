@@ -1,0 +1,19 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+	</head>
+	<body>
+		<category name="Bearcat">
+			<category name="Grenade damage">
+				<code profiles="">set GD_Weap_AssaultRifle.Projectiles.Projectile_Dahl_Grenade:BehaviorProviderDefinition_0.Behavior_Explode_11 DamageSource Class'WillowGame.WillowDmgSource_Grenade'</code>
+			</category>
+			<category name="Remove Slag Element">
+				<code profiles="">set GD_Gladiolus_Weapons.AssaultRifle.AR_Dahl_6_Bearcat:WeaponPartListCollectionDefinition_283 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_AssaultRifle.elemental.AR_Elemental_None',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_AssaultRifle.elemental.AR_Elemental_Fire',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=4,MaxGameStageIndex=1,DefaultWeightIndex=5),(Part=WeaponPartDefinition'GD_Weap_AssaultRifle.elemental.AR_Elemental_Corrosive',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=6,MaxGameStageIndex=1,DefaultWeightIndex=5),(Part=WeaponPartDefinition'GD_Weap_AssaultRifle.elemental.AR_Elemental_Shock',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=7,MaxGameStageIndex=1,DefaultWeightIndex=5)))</code>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+
