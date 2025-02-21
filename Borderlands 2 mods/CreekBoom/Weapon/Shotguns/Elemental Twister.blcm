@@ -1,0 +1,34 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+	</head>
+	<body>
+		<category name="Elemental Twister" MUT="true">
+			<category name="All elements w/ Shock Child">
+				<code profiles="">set GD_Sage_Weapons.Shotgun.SG_Jakobs_3_Twister:WeaponPartListCollectionDefinition_326 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Shock',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Fire',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Slag',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Corrosive',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))</code>
+			</category>
+			<category name="Full Fire">
+				<code profiles="">set GD_Sage_Weapons.Shotgun.SG_Jakobs_3_Twister:WeaponPartListCollectionDefinition_326 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Fire',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))</code>
+				<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 Definition GD_Explosions.Incendiary.Explosion_IncendiaryMaster</code>
+			</category>
+			<category name="Full Corrosive">
+				<code profiles="">set GD_Sage_Weapons.Shotgun.SG_Jakobs_3_Twister:WeaponPartListCollectionDefinition_326 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Corrosive',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))</code>
+				<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 Definition GD_Explosions.Corrosive.Explosion_CorrosiveMaster</code>
+			</category>
+			<category name="Full Explosive">
+				<code profiles="">set GD_Sage_Weapons.Shotgun.SG_Jakobs_3_Twister:WeaponPartListCollectionDefinition_326 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_None',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))</code>
+				<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister DamageTypeDefinition WillowDamageTypeDefinition'GD_Explosive.DamageType.DmgType_Explosive_Impact'</code>
+				<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 Definition GD_Explosions.Explosive.Explosion_ExplosiveMaster</code>
+			</category>
+			<category name="Read Me :)" locked="true">
+				<comment>Thanks to KuroPanther_M for it's fire and corrosive Twisters. :)</comment>
+				<comment>You can't choose multiple options, only one at a time.</comment>
+				<comment>This is due to the fact that the twister "child's projectile" cannot has different elements at once.</comment>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+
