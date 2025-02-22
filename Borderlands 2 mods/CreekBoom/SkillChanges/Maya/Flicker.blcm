@@ -4,7 +4,7 @@
 		<type name="BL2" offline="false"/>
 	</head>
 	<body>
-		<category name="Ajoute des dégâts de statut">
+		<category name="Add status damage">
 			<hotfix name="UCPMaya" package="GD_Siren_Streaming">
 				<code profiles="">set GD_Siren_Skills.Cataclysm.Flicker SkillDescription Increase your [skill]chances to inflict a status effect[-skill] and your [skill]status damage[-skill].</code>
 				<code profiles="">set GD_Siren_Skills.Cataclysm.Flicker:AttributePresentationDefinition_0 Description Chances to inflict a status effect: $NUMBER$<br>Status damage: $NUMBER$</code>
