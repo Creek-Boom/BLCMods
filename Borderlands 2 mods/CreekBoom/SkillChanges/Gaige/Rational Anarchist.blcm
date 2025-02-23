@@ -6,10 +6,10 @@
 	<body>
 		<category name="Rational Anarchist">
 			<hotfix name="UCPGaige" package="GD_Tulip_Mechro_Streaming">
-				<code profiles="default">set GD_Tulip_Mechromancer_Skills.Misc.Att_RationalAnarchist_NumberOfStacks:ConstantAttributeValueResolver_1 ConstantValue 150.000000</code>
-				<code profiles="default">set GD_Tulip_Mechromancer_Skills.EmbraceChaos.RationalAnarchist:AttributePresentationDefinition_0 Description Get 150 Anarchy stacks for the price of 1. It's no free lunch, but still.</code>
+				<code profiles="default">set GD_Tulip_Mechromancer_Skills.Misc.Att_RationalAnarchist_NumberOfStacks:ConstantAttributeValueResolver_1 ConstantValue 50.000000</code>
+				<code profiles="default">set GD_Tulip_Mechromancer_Skills.EmbraceChaos.RationalAnarchist:AttributePresentationDefinition_0 Description Get 50 Anarchy stacks for the price of 1. It's no free lunch, but still.</code>
 			</hotfix>
-			<comment>Gives you 150 stacks instead of 25.</comment>
+			<comment>Gives you 50 stacks instead of 25.</comment>
 		</category>
 	</body>
 </BLCMM>
