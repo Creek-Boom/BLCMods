@@ -11,8 +11,7 @@
 				<code profiles="default">set GD_Tulip_Mechromancer_Skills.EmbraceChaos.DeathFromAbove_Feedback InitialDuration 10.000000</code>
 			</hotfix>
 			<comment>Multiply it's damage by 15 and radius by 5, you can proc it every 10 seconds to compensate.</comment>
-			<comment>Huge credit to AutumnWitch, check out her (?) Gaige rework mods :)</comment>
-			<comment>I couldn't reduce the number of consumed stacks though, I could change the number on the description but not the actual consumption. If I figure this out, I'll multiply the damage by 2 instead of 10, make the cooldown back to it's original value and make it consume 5 stacks at 10 points.</comment>
+			<comment>Huge credit to AutumnWitch, check out her (?) Gaige rework mods :)</comment>	
 		</category>
 	</body>
 </BLCMM>
