@@ -10,7 +10,7 @@
 				<code profiles="default">set GD_Tulip_Mechromancer_Skills.Projectiles.DeathFromAbove_Projectile:BehaviorProviderDefinition_0.Behavior_CauseDamage_7 RadiusFormula.BaseValueScaleConstant 3.000000</code>
 				<code profiles="default">set GD_Tulip_Mechromancer_Skills.EmbraceChaos.DeathFromAbove_Feedback InitialDuration 15.000000</code>
 			</hotfix>
-			<comment>Multiply it's damage by 10 and radius by 3, you can proc it every 20 seconds to compensate.</comment>
+			<comment>Multiply it's damage by 10 and radius by 3, you can proc it every 15 seconds to compensate.</comment>
 			<comment>Huge credit to AutumnWitch, check out her (?) Gaige rework mods :)</comment>
 			<comment>I couldn't reduce the number of consumed stacks though, I could change the number on the description but not the actual consumption. If I figure this out, I'll multiply the damage by 2 instead of 10, make the cooldown back to it's original value and make it consume 5 stacks at 10 points.</comment>
 		</category>
