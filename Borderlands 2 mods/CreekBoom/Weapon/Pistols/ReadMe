@@ -1,14 +1,16 @@
-Rex :        Huge buff to critical hit and accuracy, reduced mag size.
+Rex :       Insane buff to critical hit and huge buff in accuracy, mag size of 1.
+
+---- Note : You can only use it with a matching grip, otherwise it will have 0 mag. (even with bandit grip)
 
 Unforgiven : Automatic fire, buff it's damage, crit damage (UCP values) and greatly improves accuracy.
 You have two choices for elements : 1) All elements except Explosive. (None-elemental, fire, shock, corrosive, slag), 2) Only comes in fire, corrosive and shock elements.
 
-----Gibbed codes : 
-----Fire : BL2(hwAAAABhxgiHhwAAB6HVRgCMheEAMALG//8JGB0w/v9vAASDAQHw)
-----Corrosive : BL2(hwAAAAA4fAiHhwAAB6HVRgCMheEAMALG//8KGB0w/v9vAASDAQHw)
-----Shock : BL2(hwAAAACGQAiHhwAAB6HVRgCMheEAMALG/38KGB0w/v9vAASDAQHw)
-----Slag : BL2(hwAAAAD6OQiHhwAAB6HVRgCMheEAMALG/38LGB0w/v9vAASDAQHw)
+---- Gibbed codes : 
+---- Fire : BL2(hwAAAABhxgiHhwAAB6HVRgCMheEAMALG//8JGB0w/v9vAASDAQHw)
+---- Corrosive : BL2(hwAAAAA4fAiHhwAAB6HVRgCMheEAMALG//8KGB0w/v9vAASDAQHw)
+---- Shock : BL2(hwAAAACGQAiHhwAAB6HVRgCMheEAMALG/38KGB0w/v9vAASDAQHw)
+---- Slag : BL2(hwAAAAD6OQiHhwAAB6HVRgCMheEAMALG/38LGB0w/v9vAASDAQHw)
 
-----Credit :
+---- Credit :
 
-----If you wanted an explosive version of the Unforgiven, check out vWolvenn's Salt Cannon mod :)
+---- If you wanted an explosive version of the Unforgiven, check out vWolvenn's Salt Cannon mod :)
