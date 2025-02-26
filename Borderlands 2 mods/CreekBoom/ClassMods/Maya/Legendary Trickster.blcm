@@ -12,7 +12,7 @@
 			<code profiles="">set GD_ClassMods.A_Item_Siren.ClassMod_Siren_Z_SlayerOfTerramorphous ManufacturerOverride GD_Manufacturers.Manufacturers.Vladof</code>
 			<comment>Replace Slayer Of Terramorphous,</comment>
 			<comment>Buff Fire Rate like the trickster COM,</comment>
-			<comment>Buff the following skills : 1) Chain Reaction, 2) Kinetic Reflection, 3) Life Tape, 4) Suspension, 5) Quicken</comment>
+			<comment>Buff the following skills : 1) Chain Reaction, 2) Kinetic Reflection, 3) Life Tap, 4) Suspension, 5) Quicken</comment>
 		</category>
 	</body>
 </BLCMM>
