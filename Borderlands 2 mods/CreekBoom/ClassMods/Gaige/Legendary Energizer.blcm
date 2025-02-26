@@ -10,7 +10,9 @@
 			<code profiles="default">set GD_Lobelia_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Legendary_Catalyst AttributeSlotUpgrades ((SlotName="PrimaryStatBonus",GradeIncrease=1,bActivateSlot=True),(SlotName="PrimaryStatBonus02",GradeIncrease=6,bActivateSlot=True),(SlotName="StatPenalty",GradeIncrease=0,bActivateSlot=True),(SlotName="Skill1",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill2",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill3",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill4",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill5",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill6",GradeIncrease=3,bActivateSlot=True))</code>
 			<code profiles="default">set GD_Lobelia_ClassMods.Prefix_Mechromancer.Prefix_LegendaryCatalyst PartName Legendary Energizer</code>
 			<code profiles="default">set GD_Lobelia_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Legendary_Catalyst:AttributePresentationDefinition_1 Description "I'm a free electron"</code>
+			<code profiles="default">set GD_Lobelia_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Legendary_Catalyst ManufacturerOverride ManufacturerOverride GD_Manufacturers.Manufacturers.Anshin</code>
 			<comment>Replace Legendary Catalyst,</comment>
+			<comment>Anshin COM,</comment>
 			<comment>Gives you critical damage and health regen,</comment>
 			<comment>Buff the following skills : 1) Myelin, 2) Made of sterner stuff, 3) Cooking up trouble, 4) The better half, 5) Smaller lighter faster</comment>
 		</category>
@@ -23,4 +25,5 @@ set GD_Lobelia_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Legendary_Cat
 set GD_Lobelia_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Legendary_Catalyst AttributeSlotUpgrades ((SlotName="PrimaryStatBonus",GradeIncrease=1,bActivateSlot=True),(SlotName="PrimaryStatBonus02",GradeIncrease=6,bActivateSlot=True),(SlotName="StatPenalty",GradeIncrease=0,bActivateSlot=True),(SlotName="Skill1",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill2",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill3",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill4",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill5",GradeIncrease=3,bActivateSlot=True),(SlotName="Skill6",GradeIncrease=3,bActivateSlot=True))
 set GD_Lobelia_ClassMods.Prefix_Mechromancer.Prefix_LegendaryCatalyst PartName Legendary Energizer
 set GD_Lobelia_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Legendary_Catalyst:AttributePresentationDefinition_1 Description "I'm a free electron"
+set GD_Lobelia_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Legendary_Catalyst ManufacturerOverride ManufacturerOverride GD_Manufacturers.Manufacturers.Anshin
 
