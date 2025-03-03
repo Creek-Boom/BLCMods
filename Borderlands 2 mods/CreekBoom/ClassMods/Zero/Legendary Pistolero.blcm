@@ -12,7 +12,7 @@
 			<code profiles="">set GD_Lobelia_ClassMods.A_Item_Assassin.ClassMod_Assassin_LegendarySniper:AttributePresentationDefinition_1 Description "I reckon so."</code>
 			<comment>Replaces Legendary Sniper,</comment>
 			<comment>Same buff as a classic Stalker COM,</comment>
-			<comment>Boosts the following skills : 1) Rising shot, 2) Follow through, 3) Velocity, 4) Fast hands, 5) One shot one kill.</comment>
+			<comment>Boosts the following skills : 1) Rising shot, 2) Follow through, 3) Counter strike, 4) One shot one kill, 5) Velocity.</comment>
 		</category>
 	</body>
 </BLCMM>
